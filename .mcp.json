@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "pptmcp": {
+      "type": "stdio",
+      "command": "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/python.exe",
+      "args": [
+        "-m",
+        "pptmcp"
+      ],
+      "env": {
+        "PPT_ENABLE_WRITE": "true",
+        "PPT_ALLOWLIST_ROOTS": "C:/Users/LENOVO/projects/ai-education-pptx"
+      }
+    }
+  }
+}
